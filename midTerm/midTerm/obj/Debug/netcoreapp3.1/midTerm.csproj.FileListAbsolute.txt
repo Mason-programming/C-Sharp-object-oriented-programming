@@ -1,0 +1,16 @@
+C:\Users\kirb5\source\repos\midTerm\midTerm\bin\Debug\netcoreapp3.1\midTerm.exe
+C:\Users\kirb5\source\repos\midTerm\midTerm\bin\Debug\netcoreapp3.1\midTerm.deps.json
+C:\Users\kirb5\source\repos\midTerm\midTerm\bin\Debug\netcoreapp3.1\midTerm.runtimeconfig.json
+C:\Users\kirb5\source\repos\midTerm\midTerm\bin\Debug\netcoreapp3.1\midTerm.runtimeconfig.dev.json
+C:\Users\kirb5\source\repos\midTerm\midTerm\bin\Debug\netcoreapp3.1\midTerm.dll
+C:\Users\kirb5\source\repos\midTerm\midTerm\bin\Debug\netcoreapp3.1\midTerm.pdb
+C:\Users\kirb5\source\repos\midTerm\midTerm\obj\Debug\netcoreapp3.1\midTerm.csproj.AssemblyReference.cache
+C:\Users\kirb5\source\repos\midTerm\midTerm\obj\Debug\netcoreapp3.1\midTerm.csproj.GenerateResource.cache
+C:\Users\kirb5\source\repos\midTerm\midTerm\obj\Debug\netcoreapp3.1\midTerm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirb5\source\repos\midTerm\midTerm\obj\Debug\netcoreapp3.1\midTerm.AssemblyInfoInputs.cache
+C:\Users\kirb5\source\repos\midTerm\midTerm\obj\Debug\netcoreapp3.1\midTerm.AssemblyInfo.cs
+C:\Users\kirb5\source\repos\midTerm\midTerm\obj\Debug\netcoreapp3.1\midTerm.csproj.CoreCompileInputs.cache
+C:\Users\kirb5\source\repos\midTerm\midTerm\obj\Debug\netcoreapp3.1\midTerm.dll
+C:\Users\kirb5\source\repos\midTerm\midTerm\obj\Debug\netcoreapp3.1\midTerm.pdb
+C:\Users\kirb5\source\repos\midTerm\midTerm\obj\Debug\netcoreapp3.1\midTerm.genruntimeconfig.cache
+C:\Users\kirb5\source\repos\midTerm\midTerm\obj\Debug\netcoreapp3.1\midTerm.Kirby.resources
