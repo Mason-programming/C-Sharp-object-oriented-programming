@@ -1,0 +1,16 @@
+C:\Users\kirb5\source\repos\HW 6 ch12\HW 6 ch12\bin\Debug\netcoreapp3.1\HW 6 ch12.exe
+C:\Users\kirb5\source\repos\HW 6 ch12\HW 6 ch12\bin\Debug\netcoreapp3.1\HW 6 ch12.deps.json
+C:\Users\kirb5\source\repos\HW 6 ch12\HW 6 ch12\bin\Debug\netcoreapp3.1\HW 6 ch12.runtimeconfig.json
+C:\Users\kirb5\source\repos\HW 6 ch12\HW 6 ch12\bin\Debug\netcoreapp3.1\HW 6 ch12.runtimeconfig.dev.json
+C:\Users\kirb5\source\repos\HW 6 ch12\HW 6 ch12\bin\Debug\netcoreapp3.1\HW 6 ch12.dll
+C:\Users\kirb5\source\repos\HW 6 ch12\HW 6 ch12\bin\Debug\netcoreapp3.1\HW 6 ch12.pdb
+C:\Users\kirb5\source\repos\HW 6 ch12\HW 6 ch12\obj\Debug\netcoreapp3.1\HW_6_ch12.Form1.resources
+C:\Users\kirb5\source\repos\HW 6 ch12\HW 6 ch12\obj\Debug\netcoreapp3.1\HW 6 ch12.csproj.GenerateResource.cache
+C:\Users\kirb5\source\repos\HW 6 ch12\HW 6 ch12\obj\Debug\netcoreapp3.1\HW 6 ch12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirb5\source\repos\HW 6 ch12\HW 6 ch12\obj\Debug\netcoreapp3.1\HW 6 ch12.AssemblyInfoInputs.cache
+C:\Users\kirb5\source\repos\HW 6 ch12\HW 6 ch12\obj\Debug\netcoreapp3.1\HW 6 ch12.AssemblyInfo.cs
+C:\Users\kirb5\source\repos\HW 6 ch12\HW 6 ch12\obj\Debug\netcoreapp3.1\HW 6 ch12.csproj.CoreCompileInputs.cache
+C:\Users\kirb5\source\repos\HW 6 ch12\HW 6 ch12\obj\Debug\netcoreapp3.1\HW 6 ch12.dll
+C:\Users\kirb5\source\repos\HW 6 ch12\HW 6 ch12\obj\Debug\netcoreapp3.1\HW 6 ch12.pdb
+C:\Users\kirb5\source\repos\HW 6 ch12\HW 6 ch12\obj\Debug\netcoreapp3.1\HW 6 ch12.genruntimeconfig.cache
+C:\Users\kirb5\source\repos\HW 6 ch12\HW 6 ch12\obj\Debug\netcoreapp3.1\HW 6 ch12.csproj.AssemblyReference.cache
